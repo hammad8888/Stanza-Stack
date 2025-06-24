@@ -3,12 +3,12 @@ import { HelmetProvider } from "react-helmet-async";
 import { Analytics } from "@vercel/analytics/react";
 
 import Navbar from "./components/Navbar";
-import Home from "./home"; 
-import About from "./about";
-import Contact from "./contact";
-import Services from "./services";
+import Home from "./home/Index"; 
+import About from "./about/Index";
+import Contact from "./contact/Index";
+import Services from "./services/Index";
 import ContactForm from "./components/ContactForm";
-import Blogs from "./blogs";
+import Blogs from "./blogs/Index";
 import DeepSeek from "./components/DeepSeek";
 import Web from "./components/Web";
 import SEO from "./components/SeoBlog";
