@@ -3,7 +3,7 @@ import { HelmetProvider } from "react-helmet-async";
 import { Analytics } from "@vercel/analytics/react";
 
 import Navbar from "./components/Navbar";
-import Home from "./home";
+import Home from "./home"; 
 import About from "./about";
 import Contact from "./contact";
 import Services from "./services";
