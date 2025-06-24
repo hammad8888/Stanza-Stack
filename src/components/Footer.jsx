@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { FaFacebook, FaTwitter, FaLinkedin, FaEnvelope } from "react-icons/fa";
 import { FiArrowRight } from "react-icons/fi";
 import emailjs from "emailjs-com";
-import logo from "/src/assets/logo2.png";
+import logo from "../assets/logo2.png";
 
 
 const Footer = () => {

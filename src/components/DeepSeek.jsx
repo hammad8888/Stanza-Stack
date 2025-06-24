@@ -5,7 +5,7 @@ import { useInView } from 'react-intersection-observer';
 import { Helmet } from "react-helmet-async";
 
 import Footer from "./Footer";
-import chart from "../Assets/chart.png";
+import chart from "../assets/chart.png";
 
 const DeepSeekBlog = () => {
   // SEO Metadata
